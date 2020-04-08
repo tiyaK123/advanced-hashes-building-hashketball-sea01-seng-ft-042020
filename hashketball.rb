@@ -51,6 +51,6 @@ hash = {:home => {:team_name =>"Brooklyn Nets",:colors => ["Black","White"],
 :away => {:team_name => "nba",:colors => ["red","yell"],
 :players => ""}
   
-}}
+}
 
 end 
