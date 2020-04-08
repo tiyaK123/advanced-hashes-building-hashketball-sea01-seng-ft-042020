@@ -48,7 +48,7 @@ hash = {:home => {:team_name =>"Brooklyn Nets",:colors => ["Black","White"],
 :blocks => 11, 
 :slam_dunks => 1}
 ] }
-:away => {:team_name => "Charlotte Hornets",:colors => ["red","yell"],
+:away => {:team_name => "Charlotte Hornets",:colors => ["Turquoise", "Purple"],
 :players => ""}
   
 }
