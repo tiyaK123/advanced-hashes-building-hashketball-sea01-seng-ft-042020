@@ -1,6 +1,6 @@
 # Write your code here!
 def game_hash
-hash = {:home => {:team_name =>"Brooklyn Nets",:colors => ["red","blue"],
+hash = {:home => {:team_name =>"Brooklyn Nets",:colors => ["Black","White"],
 :players => [
   {:player_name => "Alan Anderson",
   :number => 0, 
