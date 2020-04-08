@@ -50,8 +50,8 @@ hash = {:home => {:team_name =>"Brooklyn Nets",:colors => ["Black","White"],
 ] }
 :away => {:team_name => "Charlotte Hornets",:colors => ["Turquoise", "Purple"],
 :players => [
-  {:player_name => "Alan Anderson",
-  :number => 0, 
+  {:player_name => "Jeff Adrien",
+  :number =>4, 
   :shoe => 16, 
   :points => 22,
   :rebounds => 12,
